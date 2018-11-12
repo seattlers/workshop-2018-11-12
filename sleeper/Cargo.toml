@@ -1,0 +1,8 @@
+[package]
+name = "sleeper"
+version = "0.1.0"
+authors = ["Example User <user@example.com>"]
+publish = false
+
+[dependencies]
+rand = "0.5"
